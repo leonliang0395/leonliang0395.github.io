@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Blog
+title: blog
 ---
 
-## Blog Posts
+## Leon Liang's Blog
 
 {% for post in site.posts %}
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
