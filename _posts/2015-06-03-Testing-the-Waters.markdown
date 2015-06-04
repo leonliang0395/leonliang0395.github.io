@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Testing the Waters"
 date:   2015-06-03 3:18PM
 categories: Thoughts
