@@ -1,31 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<link rel="stylesheet" href="css/css.css">
-	<link rel="stylesheet" href="css/animations.css">
-	<link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
-	<title>Leon Liang</title>
+---
+layout: default
+---
 
-</head>
-<body>
-	<style>
-		body {
-			background-color:#F4FAD2;
-		}
-	</style>
-	<div class="indexDiv">
-		<header class="header">
-			 <h1 id="Name" class="fadeIn">Leon Liang</h1>
-			 <h2 id="ID" class="fadeIn">Student / Developer</h2>
-			 <h2 id="Education" class="fadeIn">University of Michigan</h2>
-			 <h3 id="Contact" class="fadeIn">
-			 	<a href="https://www.github.com/leonliang0395"><img src="static/github1.png"></a>
-			 	<a href="https://www.linkedin.com/in/leonliang0395"><img src="static/linkedinred.png"></a>
-			 	<!-- <a href="/blog.html"><img src="static/blogicon.png"></a> -->
-			 	<a href="Resume.pdf"><img src="static/resume.png"></a>
-			 </h3>
-		</header>
-	</div>
-</body>
-</html>
+{% include header.html %}
+
+<div class="blog">
+    <h1>Blog Posts:</h1>
+    <ul>
+        {% for post in site.posts %}
+        <li>
+            <span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

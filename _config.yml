@@ -1,3 +1,20 @@
+# My variables
 name: Leon Liang
-markdown: kramdown 
-baseurl: /
+
+
+# File management
+include: [".htaccess"]
+
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
