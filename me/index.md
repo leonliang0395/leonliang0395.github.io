@@ -2,8 +2,6 @@
 layout: about
 ---
 
-Hey there, I'm Leon and I'm studying Computer Science at the University of Michigan. Currently I'm interning at Lockheed Martin in Syracuse, NY doing Software Development.
-
 # What do you do?
 Other than programming, I love to play video games and watch tv shows!
 Over the past few months, I've been weening myself off League of Legends because that game makes me

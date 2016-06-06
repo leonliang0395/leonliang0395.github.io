@@ -4,6 +4,22 @@ layout: default
 
 {% include header.html %}
 
+<div class="portfolio">
+    <h1>Intro:</h1>
+        <p style="padding-left:10px"> Hey there! I study Computer Science at the University of Michigan, 
+        and am currently interning at Lockheed Martin - MST doing Software Development.</p>
+</div>
+
+<div class="portfolio">
+    <h1>Projects:</h1>
+    <ul>
+        {% for projects in site.data.projects %}
+        <li>
+            <a href="{{ projects.url }}">{{ projects.title }}</a> - {{ projects.description }}
+        </li>
+        {% endfor %}
+    </ul>
+</div>
 
 
 <div class="blog">

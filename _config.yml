@@ -1,16 +1,10 @@
 # My variables
 name: Leon Liang
 
-
-# File management
-include: [".htaccess"]
-
-
 # Sass
 sass:
   style: :compressed
   sass_dir: _sass
-
 
 # Markdown
 markdown: kramdown
