@@ -26,7 +26,7 @@ that a lot of what I learned at Michigan applies to my project. Learning about U
 advanced C++ and the compilation process allowed me to quickly figure out what was going 
 on behind the scenes. It turns out there was a lot that I was familiar with. The
 only reason I felt stupid was that I was intimidated by my teammates and the task at hand.
-I didn't want to fuck up the codebase with one commit, and I didn't want to embarass myself
+I didn't want to screw up the codebase with one commit, and I didn't want to embarass myself
 in front of them. So, what I ended up doing was second guess every line of code I wrote, which
 leads to me not writing code at all! Once I realized my teammates weren't gods of programming, 
 I felt much more comfortable working with them. I'm starting to enjoy working there
@@ -34,7 +34,7 @@ more and more!
 
 <br> 
 
-**TL;DR** Fuck bureaucracy and have more faith in your skills.
+**TL;DR** Bureaucracy sucks and have more faith in your skills.
 
 
 
