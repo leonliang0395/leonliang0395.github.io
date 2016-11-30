@@ -1,11 +1,11 @@
-- title: Standard for Spatial Accessibility (SSA)
+- title: SSA
   url: https://github.com/aprokic/ssa
-  description: \n\tiOS application to help the visually impaired navigate spaces.
+  description: iOS application to help the visually impaired navigate spaces.
   
 - title: Tesla Jarvis
   url: https://github.com/leonliang0395/TeslaJarvis
-  description: Simple Tesla Model S automation web app.
+  description: Tesla Model S automation web app.
 
 - title: Sturdy Birdy
   url: https://github.com/leonliang0395/SturdyBirdy
-  description: Web app built with Python to help you find a study buddy.
+  description: Web app built with Flask to help you find a study buddy.
