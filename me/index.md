@@ -27,8 +27,8 @@ other people's lives. For example, in my Software Engineering class, we're worki
 benefit people specifically with disabilities and disorders. These are people with cerebral palsy, autism, blindness, etc.
 They don't have fine motor skills, and we need to create products that cater to them, so that they can enjoy technology just as much as we do. 
 
-I want to program because I've realized my skills allow me to help other people through technology. I could be working on
+I want to program because I've realized my skills give me the ability to help other people through technology. I could be working on
 a web app, iOS app, missile-detecting radar, video game for the disabled, and I would know that each line of code I write
-has a lasting impact on the product, and ultimately on the customer.
+has a lasting impact on the product and the customer.
 
 
