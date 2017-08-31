@@ -1,14 +1,14 @@
 - title: Satya Office
   url: https://github.com/kfrankc/SatyaOffice
-  description: A multi-platform app that delivers inspiration with the press of a button.
+  description: An application built on the Web, IoT device, and Cortana, that delivers inspiration with the press of a button.
 
 - title: SSA
   url: https://github.com/aprokic/ssa
-  description: iOS application to help the visually impaired navigate spaces.
+  description: iOS application to help the visually impaired navigate spaces using RFID tags and readers.
   
 - title: Tesla Jarvis
   url: https://github.com/leonliang0395/TeslaJarvis
-  description: Tesla Model S automation web app.
+  description: Tesla Model S automation web app built with Python and the Tesla API.
 
 - title: Sturdy Birdy
   url: https://github.com/leonliang0395/SturdyBirdy
