@@ -7,12 +7,11 @@
 body {
     color: $color-fg;
     background: $color-bg;
-    font-family: 'Merriweather', serif;
+    font-family: 'Lato', serif;
     font-size: 100%;
     font-weight: 400;
 }
 h1 {
-    font-family: 'Lato';
     margin-bottom: 5px;
 }
 p {
@@ -62,7 +61,6 @@ ul {
 
 
 .header {
-    font-family: 'Lato';
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -107,7 +105,6 @@ ul {
 .post {
     padding-bottom: 30px;
     &__title {
-        font-family: 'Lato';
         font-size: 1.6em;
         font-weight: 700;
         text-decoration: underline;
@@ -119,6 +116,7 @@ ul {
         font-style: italic;
     }
     &__content {
+        font-family: 'Merriweather';
         padding-top: 40px;
         h1 {
             font-size: 1.25em;
